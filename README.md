@@ -1,4 +1,4 @@
-<h1 align="left">Projet Java / Objectif faire un petit jeu Morpion pour s'entrainer avec Java</h1>
+<h1 align="left">Projet Java / Objectif faire un petit jeu Morpion pour s'entrainer</h1>
 
 <h3 align="left">Installation : cloner le projet puis lancer un IDE IntelliJ et pour Run l'application compiler le fichier main :</h3>
 
