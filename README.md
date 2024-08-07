@@ -1,8 +1,14 @@
-<h1 align="left">Projet Java / Objectif faire un petit jeu Morpion pour s'entrainer</h1>
+# Projet Java
 
-<h3 align="left">Installation : cloner le projet puis lancer un IDE IntelliJ et pour Run l'application compiler le fichier main</h3>
+Objectif faire un petit jeu Morpion pour s'entrainer
 
-<h3 align="left">Langage :</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-</p>
+## Démarrer
+
+Le projet a été créé sous IntelliJ, pour le démarrer suivre les étapes suivantes.
+
+- Cloner le projet
+- Compiler le fichier main
+
+## Sources & Outils
+
+- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
