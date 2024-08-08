@@ -1,4 +1,4 @@
-# Projet Java
+# Projet Morpion
 
 Objectif faire un petit jeu Morpion pour s'entrainer
 
